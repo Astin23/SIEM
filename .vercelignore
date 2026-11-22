@@ -1,0 +1,8 @@
+backend/tests/
+backend/.venv/
+backend/.pytest_cache/
+backend/data/
+backend/siem.db
+notebooks/
+*.pyc
+__pycache__/
